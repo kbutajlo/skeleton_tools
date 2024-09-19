@@ -1,2 +1,0 @@
-onet.pl,5
-krokowa.pl,10
